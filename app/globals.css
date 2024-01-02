@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  background: #000;
+  color: white;
+  padding: 20px 30px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
