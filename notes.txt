@@ -1,0 +1,4 @@
+1. <Link /> --> This is same tag as <NavLink /> or <Link /> in react js .
+2. useRouter() --> This hook work same as useNavigate() in react
+3. () --> If we want to ignore any specific route name we can use parenthesis (pathname) 
+4. [] --> If we want dynamic routes then we can use [id]
